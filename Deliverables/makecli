@@ -1,0 +1,2 @@
+all:
+	g++ unixgetch.cpp clientsocket.cpp clientsource.cpp clientui.cpp directoryviewer.cpp -o Client.out -Wall

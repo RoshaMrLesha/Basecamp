@@ -1,0 +1,2 @@
+all:
+	g++ serversource.cpp serverui.cpp serversocket.cpp directorymanager.cpp -o Server.out -Wall
